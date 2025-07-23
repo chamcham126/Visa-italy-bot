@@ -1,0 +1,17 @@
+{
+  "nom": "Benslimane Chemseddine",
+  "sexe": "Homme",
+  "date_naissance": "12/06/1988",
+  "lieu_naissance": "Seddouk",
+  "nationalité": "Algérienne",
+  "passeport": "169210608",
+  "delivre_le": "16/09/2016",
+  "expire_le": "15/09/2026",
+  "autorite": "Seddouk",
+  "telephone": "0561790246",
+  "email": "chbenslimane12@gmail.com",
+  "adresse": "Ighil Ndjiber, Seddouk, Béjaïa",
+  "centre": "Alger",
+  "type_visa": "Tourisme",
+  "periode": "7 jours"
+}

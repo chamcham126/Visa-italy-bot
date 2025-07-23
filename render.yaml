@@ -1,0 +1,8 @@
+services:
+  - type: web
+    name: visa-italy-bot
+    env: python
+    plan: free
+    buildCommand: ""
+    startCommand: "python visa_italy_bot.py"
+    autoDeploy: true
